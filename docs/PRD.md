@@ -67,7 +67,7 @@ Two layers — a **floor** (means we have a real signal) and a **stretch** (the 
 | Repeat orderers (≥2 orders) | 1+ | 15+ |
 | Days from concierge launch to bot live | ≤21 | ≤14 |
 | Catalog SKUs live | 30 | 60 |
-| Median delivery time | ≤45 min | ≤25 min |
+| Median delivery time | ≤30 min | ≤15 min |
 
 ### Month 2 (August) — Growth & metrics
 
